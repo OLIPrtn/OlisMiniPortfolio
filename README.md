@@ -1,2 +1,2 @@
 # OlisMiniPortfolio
-A portfolio of all coding prpjects
+A portfolio of all coding projects
